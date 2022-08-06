@@ -1,0 +1,169 @@
+Creating Inventory
+Blacksmith Tess is available.
+========================
+Blacksmith Christine is available.
+========================
+Inventory stock for Wood: 10
+========================
+Removing 7 wood inventory stock...
+========================
+Inventory stock for Wood: 3
+========================
+--Weapon Selection--
+Weapon selected: Spear, Material selected: Iridium
+Iridium inventory available.
+You can now choose enhancement for your weapon.
+----------------
+Final order is Iridium Spear with Magic Damage enhancement.
+Customer name: Cecilia
+Ability of Iridium Spear with Magic Damage: 
+  Damage Dealt: 18.0
+  Agility: 15.0
+  Accuracy: 13.0
+  Magic Pierce: 17.0
+----------------
+The total price is: 2400.0
+========================
+--Weapon Selection--
+Weapon selected: Sword, Material selected: Aluminum
+Aluminum inventory available.
+You can now choose enhancement for your weapon.
+----------------
+Final order is Aluminum Sword with No Enhancement enhancement.
+Customer name: Trish
+Ability of Aluminum Sword with No Enhancement: 
+  Damage Dealt: 15.5
+  Agility: 14.0
+  Accuracy: 16.5
+  Magic Pierce: 2.0
+----------------
+The total price is: 300.0
+========================
+--Weapon Selection--
+Weapon selected: Dagger, Material selected: Gold
+Gold inventory available.
+You can now choose enhancement for your weapon.
+----------------
+Final order is Gold Dagger with Critical Hit enhancement.
+Customer name: Paige
+Ability of Gold Dagger with Critical Hit: 
+  Damage Dealt: 13.0
+  Agility: 15.0
+  Accuracy: 17.0
+  Magic Pierce: 2.0
+----------------
+The total price is: 1345.0
+========================
+Order request has been sent the system.
+Blacksmith Tess receives order request:: CUSTOMER=Cecilia ORDER=Iridium Spear with Magic Damage
+Blacksmith Christine receives order request:: CUSTOMER=Cecilia ORDER=Iridium Spear with Magic Damage
+========================
+Order request has been sent the system.
+Blacksmith Tess receives order request:: CUSTOMER=Trish ORDER=Aluminum Sword with No Enhancement
+Blacksmith Christine receives order request:: CUSTOMER=Trish ORDER=Aluminum Sword with No Enhancement
+========================
+Order request has been sent the system.
+Blacksmith Tess receives order request:: CUSTOMER=Paige ORDER=Gold Dagger with Critical Hit
+Blacksmith Christine receives order request:: CUSTOMER=Paige ORDER=Gold Dagger with Critical Hit
+========================
+Assigning Blacksmiths:
+Blacksmith Tess has been assigned order for: Cecilia
+Total assigned blacksmiths: 1
+========================
+Assigning Blacksmiths:
+Blacksmith Christine has been assigned order for: Trish
+Total assigned blacksmiths: 2
+========================
+Assigning Blacksmiths:
+All blacksmiths are busy.
+========================
+Blacksmith Tess finished crafting the weapon order.
+Blacksmith Tess is available.
+========================
+Assigning Blacksmiths:
+Blacksmith Tess has been assigned order for: Paige
+Total assigned blacksmiths: 2
+========================
+Inventory stock for Iridium: 9
+========================
+Inventory stock for Aluminum: 9
+========================
+Inventory stock for Gold: 9
+========================
+--Weapon Selection--
+Weapon selected: Sword, Material selected: Wood
+Wood inventory available.
+You can now choose enhancement for your weapon.
+----------------
+Final order is Wood Sword with Damage Boost enhancement.
+Customer name: Zach
+Ability of Wood Sword with Damage Boost: 
+  Damage Dealt: 15.5
+  Agility: 16.0
+  Accuracy: 13.0
+  Magic Pierce: 2.0
+----------------
+The total price is: 410.0
+========================
+Order request has been sent the system.
+========================
+Assigning Blacksmiths:
+All blacksmiths are busy.
+========================
+Blacksmith Christine finished crafting the weapon order.
+Blacksmith Christine is available.
+========================
+Blacksmith Heather is available.
+========================
+Blacksmith Jason is available.
+========================
+Assigning Blacksmiths:
+Blacksmith Christine has been assigned order for: Zach
+Total assigned blacksmiths: 2
+========================
+Assigning Blacksmiths:
+Order has already been assigned to blacksmith.
+========================
+--Weapon Selection--
+Weapon selected: Dagger, Material selected: Iridium
+Iridium inventory available.
+You can now choose enhancement for your weapon.
+----------------
+Final order is Iridium Dagger with Magic Damage enhancement.
+Customer name: Rose
+Ability of Iridium Dagger with Magic Damage: 
+  Damage Dealt: 15.0
+  Agility: 17.5
+  Accuracy: 17.0
+  Magic Pierce: 12.0
+----------------
+The total price is: 2345.0
+========================
+Order request has been sent the system.
+Blacksmith Heather receives order request:: CUSTOMER=Rose ORDER=Iridium Dagger with Magic Damage
+Blacksmith Jason receives order request:: CUSTOMER=Rose ORDER=Iridium Dagger with Magic Damage
+========================
+Assigning Blacksmiths:
+Blacksmith Heather has been assigned order for: Rose
+Total assigned blacksmiths: 3
+========================
+Inventory stock for Wood: 2
+========================
+Removing 8 wood inventory stock...
+========================
+Inventory stock for Wood: 0
+========================
+--Weapon Selection--
+Weapon selected: Sword, Material selected: Wood
+Wood is out of stock.
+Please choose new material for your weapon.
+----------------
+Unable to add enhancement, please choose a new material for your weapon first.
+No order has been processed, please pick a new material.
+========================
+Blacksmith Tess finished crafting the weapon order.
+Blacksmith Tess is available.
+========================
+Blacksmith Heather finished crafting the weapon order.
+Blacksmith Heather is available.
+========================
