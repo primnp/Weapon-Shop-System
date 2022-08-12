@@ -2,7 +2,7 @@
 Author: Nuwapa Promchotichai (Prim) U45776029, pnuwapa@bu.edu
 Class: MET CS665 Spring 2022
 
-View the project description and UML diagram [here](https://github.com/primnp/Weapon-Shop-System/blob/master/for_readme/ProjectPresentation.pdf)
+**IMPORTANT** View the project description and UML diagram [here](https://github.com/primnp/Weapon-Shop-System/blob/master/for_readme/ProjectPresentation.pdf)
 ## Application Description
 
 The concept of this project is to create a weapon shop system for a game. The whole application is split into two main parts. First part encapsulates the method for the user to place a weapon customization order by picking weapon type, material, and the enhancement. The user will first pick a weapon type (sword, dagger, or spear) and the main material (wood, aluminum, gold, iridium) of the weapon. The system will then check if there is enough material inside the inventory. If there is enough material, the user will proceed to pick enhancement for the weapon (Magic Damage, Damage Boost, Critical Hit, or No enhancement). If there is not enough material in the inventory, the user will be asked to pick the new material for the weapon. After picking enhancement, the system will calculate the price of the weapon customization and list all the ability values of the weapon to the user.  Every weapon type and material has base ability values and the enhancements are just an upgrade to those ability values.
